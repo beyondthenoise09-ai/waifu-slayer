@@ -102,6 +102,11 @@ import com.maxrave.simpmusic.ui.screen.player.content.NowPlayingContentAppleMusi
 import com.maxrave.simpmusic.ui.screen.player.content.NowPlayingContentM3Expressive
 import com.maxrave.simpmusic.ui.screen.player.content.NowPlayingContentSpotify
 import com.maxrave.simpmusic.ui.screen.player.content.NowPlayingContentState
+import com.maxrave.simpmusic.ui.screen.player.content.NowPlayingContentWaifuAura
+import com.maxrave.simpmusic.ui.screen.player.content.NowPlayingContentWaifuMinimal
+import com.maxrave.simpmusic.ui.screen.player.content.NowPlayingContentWaifuImmersive
+import com.maxrave.simpmusic.ui.screen.player.content.NowPlayingContentWaifuGlass
+import com.maxrave.simpmusic.ui.screen.player.content.NowPlayingContentWaifuClassic
 import com.maxrave.simpmusic.ui.screen.player.content.PlayerBackdropColor
 import com.maxrave.simpmusic.ui.screen.player.content.fullscreenCanvas
 import com.maxrave.simpmusic.ui.screen.player.content.toAudioQualityLabel
