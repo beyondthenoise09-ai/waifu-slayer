@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        Cold-start / splash background only — Compose paints everything after the first frame.
+        WAIFU SLAYER: pinned to the brand's near-black (#08050F) so there is no grey/white flash.
+        Kept under the original colour name so any other reference keeps resolving.
+    -->
+    <color name="simpmusic_cold_start_background">#FF08050F</color>
+
+    <style name="Theme.SimpMusic" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+    </style>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- WAIFU SLAYER brand palette -->
+    <color name="waifu_bg_primary">#FF08050F</color>
+    <color name="waifu_bg_secondary">#FF100B19</color>
+    <color name="waifu_surface">#FF17111F</color>
+    <color name="waifu_accent_primary">#FF9B4DFF</color>
+    <color name="waifu_accent_secondary">#FFC084FC</color>
+    <color name="waifu_text_primary">#FFFFFFFF</color>
+    <color name="waifu_text_secondary">#FFA7A0B2</color>
+    <color name="waifu_border">#FF30263A</color>
+</resources>

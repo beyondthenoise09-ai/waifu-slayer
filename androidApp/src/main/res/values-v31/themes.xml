@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Android 12+ system splash: brand background + centred mark, no extra delay. -->
+    <style name="Theme.SimpMusic" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/waifu_bg_primary</item>
+        <item name="android:windowSplashScreenBackground">@color/waifu_bg_primary</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/splash_icon</item>
+    </style>
+</resources>

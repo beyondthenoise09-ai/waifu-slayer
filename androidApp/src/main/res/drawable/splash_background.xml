@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Cold-start window for Android 8-11: near-black page with the centred WAIFU SLAYER mark. -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/waifu_bg_primary"/>
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/splash_icon"/>
+    </item>
+</layer-list>
